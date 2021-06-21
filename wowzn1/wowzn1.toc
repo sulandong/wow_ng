@@ -1,0 +1,18 @@
+
+
+
+
+
+## Interface: 20501
+## X-Min-Interface:  20501
+## Title:|cffffe00a<|r|cffff7d0a智能一键宏|r|cffffe00a>|r 输出设置
+## Title-zhCN:|cffffe00a<|r|cff556a39GJS|r|cffffe00a>|r 智能一键宏怀旧服版本v1.01
+## Title-zhTW:|cffffe00a<|r|cff556a39GJS|r|cffffe00a>|r 智能一键宏怀旧服版本v1.01
+## Notes-zhCN: |cffffff00智能一键宏|r
+## Notes-zhTW: |cffffff00智能一键宏|r
+## Author: SLD
+## DefaultState: Enabled
+## SavedVariables:
+wowznkaida.lua
+dszCheckMagic.lua
+wowznlist.lua
